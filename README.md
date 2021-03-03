@@ -12,5 +12,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love .NET and Xamarin
 
-
+<!--
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthiriet&show_icons=true)
+-->
