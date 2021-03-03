@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m John Thiriet
-- 🇫🇷 I live in beautiful Paris
-- 🏢 I’m working at Edenred
+- 🇫🇷 I'm living in beautiful Paris
+- 🏢 I’m working at Edenred as a Lead Engineer
 - 🌱 I blog about coding: [https://johnthiriet.com/](https://johnthiriet.com/)
 - 🤔 I'm a former Microsoft MVP and Xamarin MVP
 - 💬 I'm a public speaker (Techdays, Microsoft Experiences, Xamarin Day, Meetups...)
