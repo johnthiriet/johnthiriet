@@ -11,3 +11,6 @@
 - 📫 How to reach me: [https://johnthiriet.com/about/](https://johnthiriet.com/about/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love .NET and Xamarin
+
+
+![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthiriet&show_icons=true)
