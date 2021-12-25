@@ -10,7 +10,7 @@
 - 📗 I write press articles
 - 📫 How to reach me: [https://johnthiriet.com/about/](https://johnthiriet.com/about/)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love .NET and Xamarin
+- ⚡ Fun fact: I love .NET, Xamarin and Flutter
 
 <!--
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthiriet&show_icons=true)
